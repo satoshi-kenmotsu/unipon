@@ -1,0 +1,36 @@
+.header {
+  height: 100px;
+  width: 100%;
+  border: 1px solid;
+}
+
+.main1 {
+  height: 300px;
+  width: 100%;
+  border: 1px solid;
+  display: flex;
+}
+
+.face {
+
+}
+
+.message {
+  width: 500px;
+}
+
+.like {
+
+}
+
+.main2 {
+  height: 300px;
+  width: 100%;
+  border: 1px solid;
+}
+
+.footer {
+  height: 100px;
+  width: 100%;
+  border: 1px solid;
+}
